@@ -1,0 +1,37 @@
+
+    h1 {
+    font-size: 36px;
+    font-weight: 400;
+    margin-bottom: 0px; 
+    text-align: center;
+    font-family: Montserrat,sans-serif;
+    }
+    
+    
+    .text {
+    padding-left:50px;
+    font-family: Montserrat,sans-serif;
+    text-align: center;
+    font-size: 18px;
+    }
+    
+    .text1 {padding-left:80px;
+    
+        text-align: center;
+        font-size: 25px;
+        line-height: 30px;  
+        font-family: Montserrat,sans-serif;
+        }
+    .octopus1year {
+            width: 500px; 
+            height: 50px;
+            border: 2px solid #430c53;
+            border-radius:  100% 0 0 100% / 85% 0 0 85%;
+            background: #f1b4da;
+            margin-left: 200px;
+            margin-top: -54px;   }
+
+    #footer{
+    margin-top: 64px;
+    text-align: center;
+    }
