@@ -9,6 +9,27 @@ h1 {
   text-align: center;
 }
 
+.line__tittle {
+  font-size: 20px;
+  font-family: arial;
+}
+
+.line__bar {
+  width: 700px;
+  height: 30px;
+  border: 1px solid #430c53;
+  background: #f1b4da;
+  margin-top: 2px;
+  margin-bottom: 30px;
+}
+
+.line__text {
+  text-align: center;
+  font-size: 25px;
+  font-family: arial;
+  max-width: 100%;
+}
+
 .head__mine {
   width: 400px;
   height: 608px;
